@@ -6,15 +6,8 @@ CREATED A LIGHT WEIGHT DIY VERSION OF ORTOMI GEN 4 ROBOT OLED SSD1306 USED WITH 
 ## Project Overview
 This repository contains the source code and files necessary to flash binaries directly to an ESP32-C3 via a modern web browser without needing local installations or command-line tools.
 
-![Project Image 1](20260913_132234.jpg)
-![Project Image 2](20260913_132238.jpg)
-![Project Image 3](20260913_132245.jpg)
-
-## Files Included
-* **`.ino`**: The core Arduino/C++ source code for the microcontroller.
-* **Firmware Binaries (`.bin`)**: Compiled binary files ready for deployment.
-
-## How to Use
-1. Open the `.ino` file.
-2. Select the correct COM port.
-3. Upload.
+<p align="center">
+  <img src="20260913_132234.jpg" width="250" />
+  <img src="20260913_132238.jpg" width="250" />
+  <img src="20260913_132245.jpg" width="250" />
+</p>
